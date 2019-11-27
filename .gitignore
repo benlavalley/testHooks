@@ -1,5 +1,1 @@
-.meteor/local
-./node_modules/
-.Rapp.history
-.DS_Store
-.idea/
+node_modules/

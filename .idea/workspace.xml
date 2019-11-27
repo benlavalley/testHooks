@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4f6f468-a0a5-4e6e-95e6-a48d62feef62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/testHooks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/lib/collections/schemas/userData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/lib/collections/userData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/server/userData/collections/userData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UBJpYTWHBnBCbDsjz8oJE1Iquq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.meteor.library.cached" value="$PROJECT_DIR$/.meteor" />
+    <property name="js.meteor.library.was.enabled" value="true" />
+    <property name="js.meteor.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/collections/schemas" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/collections/schemas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imports/server" />
+      <recent name="$PROJECT_DIR$/imports" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4f6f468-a0a5-4e6e-95e6-a48d62feef62" name="Default Changelist" comment="" />
+      <created>1574824238483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574824238483</updated>
+      <workItem from="1574824241941" duration="26000" />
+      <workItem from="1574824359173" duration="2739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="123" width="1638" height="764" key="DiffContextDialog" timestamp="1574825053148">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state x="128" y="123" width="1638" height="764" key="DiffContextDialog/0.23.1920.1009/1920.23.1920.1057/-1920.23.1920.1057@0.23.1920.1009" timestamp="1574825053148" />
+    <state x="128" y="123" width="1638" height="764" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1574825053149">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state x="128" y="123" width="1638" height="764" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1920.1009/1920.23.1920.1057/-1920.23.1920.1057@0.23.1920.1009" timestamp="1574825053149" />
+  </component>
+</project>
