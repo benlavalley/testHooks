@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4f6f468-a0a5-4e6e-95e6-a48d62feef62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testHooks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imports/lib/collections/schemas/userData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imports/lib/collections/userData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imports/server/userData/collections/userData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/packages" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.meteor/versions" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/versions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/lib/collections/schemas/userData.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/server/userDataTest/collections/userDataTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/lib/collections/userData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/server/userData/collections/userData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1574824238483</updated>
       <workItem from="1574824241941" duration="26000" />
-      <workItem from="1574824359173" duration="2739000" />
+      <workItem from="1574824359173" duration="7838000" />
+      <workItem from="1574832634434" duration="185000" />
     </task>
     <servers />
   </component>

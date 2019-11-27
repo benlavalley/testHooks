@@ -1,10 +1,11 @@
-import userData from '/imports/lib/collections/userData.js';
+import { Mongo } from 'meteor/mongo';
 import SimpleSchema from 'simpl-schema';
+
+const userDataTest = new Mongo.Collection('userdata');
 
 const userDataSchema = new SimpleSchema({
 	createdAt: {
 		type: Date,
-		denyUpdate: true,
 		autoValue() {
 			const value = this.isInsert && new Date() || this.isUpsert && { $setOnInsert: new Date() };
 			if (value) {
@@ -16,7 +17,6 @@ const userDataSchema = new SimpleSchema({
 	},
 	updatedAt: {
 		type: Date,
-		denyInsert: true,
 		optional: true,
 		autoValue() {
 			if (this.isUpdate) {
@@ -28,4 +28,22 @@ const userDataSchema = new SimpleSchema({
 	},
 });
 
-userData.attachSchema(userDataSchema);
+userDataTest.attachSchema(userDataSchema);
+
+userDataTest.allow({
+	insert(userId, doc) {
+		console.log('allowing insert for userId '+userId+' on docId '+doc._id);
+		return true;
+	},
+	update(userId, doc, fields, modifier) {
+		console.log('allowing update for userId '+userId+' on docId '+doc._id);
+		return true;
+	},
+	remove(userId, doc) {
+		console.log('allowing remove for userId '+userId+' on docId '+doc._id);
+		return true;
+	},
+});
+
+
+export default userDataTest;
